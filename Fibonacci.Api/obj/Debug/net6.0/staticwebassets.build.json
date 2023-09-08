@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KKdYymQH2e2GEhsUvwox3tTYbDT9kl3Wd5s6DJcYgOk=",
+  "Source": "Fibonacci.Api",
+  "BasePath": "_content/Fibonacci.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
